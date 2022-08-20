@@ -1,8 +1,8 @@
 # ⚠️⚠️ Este es el archivo de **B** ⚠️⚠️
-:loudspeaker:
+### :loudspeaker:
 
-Se acerca la hora del guisito de lentejas...
+## Se acerca la hora del guisito de lentejas...
 
-:ramen:
+### :ramen:
 
 # ⚠️⚠️ Este es el archivo de **B** ⚠️⚠️
